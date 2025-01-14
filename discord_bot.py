@@ -157,7 +157,7 @@ async def scoreboard(interaction: discord.Interaction):
     await interaction.response.send_message(formatted_scores)
 
 
-# Slash Command: /leave
+# Slash Command: /end_game
 @bot.tree.command(name="end_game", description="Leave the voice channel")
 async def leave(interaction: discord.Interaction):
     global voice_client
