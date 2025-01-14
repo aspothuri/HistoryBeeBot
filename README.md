@@ -33,11 +33,15 @@ To get started make sure to clone the github and pip install the necessary libar
 
 The following are the currently available commands that can be used with the bot.
 
-/start_game: starts a game in the provided voice channel using the provided standard [History Bee files](https://www.iacompetitions.com/resources-national-history-bee/).
-/end_game: ends that exact game and deletes the files used
-/next_question: proceeds to the next question or skips to a specified tossup if one is given
-/buzz: allows a player to queue a buzz and provides 5 seconds before the timer runs out
-/scoreboard: provides a formatted scoreboard of every user, 10 points for correct and -5 for an incorrect interrupt
+`/start_game`: starts a game in the provided voice channel using the provided standard [History Bee files](https://www.iacompetitions.com/resources-national-history-bee/).
+
+`/end_game`: ends that exact game and deletes the files used
+
+`/next_question`: proceeds to the next question or skips to a specified tossup if one is given
+
+`/buzz`: allows a player to queue a buzz and provides 5 seconds before the timer runs out
+
+`/scoreboard`: provides a formatted scoreboard of every user, 10 points for correct and -5 for an incorrect interrupt
 
 
 Most edge cases are accounted for but there are still likely some bugs. Please let me know at abhitroll@gmail.com if you find any major issues and I'll do my best to fix them
