@@ -28,7 +28,7 @@ python discord_bot.py
 
 and enjoy the game.
 
-To get started make sure to clone the github and pip install the necessary libaries. Then create a .env file with the correct Discord Bot key.
+
 
 
 The following are the currently available commands that can be used with the bot.
